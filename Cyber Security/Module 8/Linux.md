@@ -1,0 +1,3 @@
+Linux is open an open-source operating system that is fast, powerful, highly customizable. It is built for network use as either a client or server. Linux is well-loved by a large community of users, including cybersecurity personnel.
+
+Linux is open source, fast, reliable, and small. It requires very little hardware resources to run and is highly customizable. Unlike other operating systems such as Windows and Mac OS X, Linux was created, and is currently maintained by, a community of programmers. Linux is part of several platforms and can be found on devices anywhere from “wristwatches to supercomputers”.

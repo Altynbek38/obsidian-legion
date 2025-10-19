@@ -1,0 +1,1 @@
+**Servers** are computers that provide services to clients over a network. Each service, such as file sharing, email, or web hosting, requires specific server software. Some servers also handle maintenance tasks like log or memory management. For example, a file server allows clients to upload and download files.

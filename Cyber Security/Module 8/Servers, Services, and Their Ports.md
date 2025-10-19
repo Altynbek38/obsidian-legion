@@ -1,0 +1,1 @@
+Ports allow a server to provide multiple services at the same time. Each service uses a specific port, and when a server is “listening” on a port, it’s ready to handle requests for that service. Although administrators can change port numbers, most services use default or “well-known” ports so clients can connect easily.

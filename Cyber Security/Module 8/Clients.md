@@ -1,0 +1,1 @@
+Clients are applications that communicate with servers using specific protocols. For example, web browsers use **HTTP** on port **80** to connect to web servers, while **FTP clients** use the **File Transfer Protocol** to exchange files with FTP servers.
