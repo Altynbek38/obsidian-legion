@@ -16,12 +16,12 @@
 
 **Key Data Roles:**
 
-| Role | Responsibility |
-| :--- | :--- |
-| **Data Owner** | **Accountable.** Classifies data and determines access criteria. |
-| **Data Custodian** | **Technical.** Implements the security controls defined by the owner (e.g., backups, patching). |
-| **Data Controller** | Determines the **purpose** and means of processing data. |
-| **Data Processor** | Processes data on behalf of the controller. |
+| Role                | Responsibility                                                                                  |
+| :------------------ | :---------------------------------------------------------------------------------------------- |
+| **Data Owner**      | **Accountable.** Classifies data and determines access criteria.                                |
+| **Data Custodian**  | **Technical.** Implements the security controls defined by the owner (e.g., backups, patching). |
+| **Data Controller** | Determines the **purpose** and means of processing data.                                        |
+| **Data Processor**  | Processes data on behalf of the controller.                                                     |
 
 ---
 

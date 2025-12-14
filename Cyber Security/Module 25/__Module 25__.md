@@ -57,12 +57,12 @@ The process of identifying and responding to risks.
 
 **The 4 Risk Responses:**
 
-| Response | Action | Example |
-| :--- | :--- | :--- |
-| **Avoidance** | **Stop** the activity. | Shutting down a risky server; stopping a specific service. |
-| **Reduction** | **Mitigate** the risk. | Installing firewalls, patching software, using encryption. |
-| **Sharing** | **Transfer** the risk. | Buying cybersecurity **insurance** or outsourcing. |
-| **Retention** | **Accept** the risk. | Doing nothing because the cost of the fix > cost of the loss. |
+| Response      | Action                 | Example                                                       |
+| :------------ | :--------------------- | :------------------------------------------------------------ |
+| **Avoidance** | **Stop** the activity. | Shutting down a risky server; stopping a specific service.    |
+| **Reduction** | **Mitigate** the risk. | Installing firewalls, patching software, using encryption.    |
+| **Sharing**   | **Transfer** the risk. | Buying cybersecurity **insurance** or outsourcing.            |
+| **Retention** | **Accept** the risk.   | Doing nothing because the cost of the fix > cost of the loss. |
 
 ---
 
